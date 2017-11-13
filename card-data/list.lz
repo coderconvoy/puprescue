@@ -1,0 +1,60 @@
+Chief:5
+    Hero:True
+
+Ash:5
+    Hero:True
+
+Scruffy:5
+	Hero:True
+
+Air:5
+	Hero:True
+
+Digger:5
+	Hero:True
+
+Splasher:5
+	Hero:True
+
+Ripley:5
+	Hero:True
+
+Mayor Okway:1
+	Base:chief.svg
+	Base1:marshy.svg
+
+Mayor Okway:1
+	Base:marshy.svg
+	Base1:splasher.svg
+	Base2:air.svg
+
+Mayor Okway:1
+	Base:marshy.svg
+	Base1:digger.svg
+	Base2:scruffy.svg
+
+Turbot:1
+	Base:splasher.svg
+	Base1:air.svg
+	Base2:digger.svg
+
+Turbot
+	Base:splasher.svg
+	Base1:ash.svg
+
+Turbot
+	Base:splasher.svg
+	Base1:scruffy.svg
+
+Farmer Niwo
+	Base:digger.svg
+	Base1:scruffy.svg
+
+Farmer Niwo
+	Base:digger.svg
+	Base1:air.svg
+	Base2:chief.svg
+
+Farmer Niwo
+	Base:digger.svg
+	Base1:ash.svg
